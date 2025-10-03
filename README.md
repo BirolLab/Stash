@@ -223,14 +223,6 @@ The corrected assembly will have misassembled patterns identified and appropriat
 
 - **Sarvar, A., Coombe, L., Warren, R., & Birol, I.** (2022, July 10–14). *Genome misassembly detection using Stash: A data structure based on stochastic tile hashing* [Conference presentation]. Intelligent Systems for Molecular Biology 2022, Madison, WI, United States.
 
-## Contributing
-
-We welcome contributions to improve Stash! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
-
-- Code style and standards
-- Testing requirements
-- Pull request process
-- Issue reporting
 
 ## License
 
