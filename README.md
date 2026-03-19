@@ -1,6 +1,6 @@
 # Stash: A Data Structure for Genome Misassembly Detection and Correction
 
-[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/bcgsc/stash)
+[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/BirolLab/stash)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
@@ -33,7 +33,7 @@
 
 - **Compiler**: C++ compiler with OpenMP support (GCC 4.9+ or Clang 3.5+)
 - **Build System**: [CMake](https://cmake.org/download/) 3.10 or higher
-- **Dependencies**: [btllib](https://github.com/bcgsc/btllib) v1.7.1-0
+- **Dependencies**: [btllib](https://github.com/BirolLab/btllib) v1.7.1-0
 
 ### Dependency Installation
 
@@ -236,5 +236,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*For questions, issues, or feature requests, please visit our [GitHub Issues](https://github.com/bcgsc/stash/issues) page.*
+*For questions, issues, or feature requests, please visit our [GitHub Issues](https://github.com/BirolLab/stash/issues) page.*
 
